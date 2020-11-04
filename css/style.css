@@ -271,10 +271,6 @@ input::placeholder, textarea::placeholder {
 }
 
 /* footer */
-/* footer {
-    text-align: center;
-    padding: 24px 0;
-} */
 
 footer div {
     text-align: center;
@@ -283,7 +279,6 @@ footer div {
     border-top: #444 dotted 1px;
 }
 
-/* options for map #958b7e #706c66 #b4ada2 */
 
 
 
